@@ -44,15 +44,6 @@ MonoBehaviour:
   - ToggleTorch
   - TorchDropped
   - TorchEquipped
-<<<<<<< Updated upstream
-=======
-  - CollectClue
-  - PlayerInitialized
-  - GiveClue
-  - CantHearYou
-  - ChangeColour
-  - HeresWhy
->>>>>>> Stashed changes
   DisableAutoOpenWizard: 1
   ShowSettings: 1
   DevRegionSetOnce: 1
